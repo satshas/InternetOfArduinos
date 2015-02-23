@@ -2,7 +2,7 @@
 
 Internet of Arduinos (IoA for friends :) is an Internet of Things Python framework where "Things" are Arduinos, or other MCU controlled devices.
 
-It's in a very early developement stage, for now it supports basically HTTP(S) REST to Serial communication.
+It's in a very early development stage, for now it supports basically HTTP(S) REST to Serial communication.
 
 This framework is developed as pyDev project, so you can easily import it in Eclipse.
 
