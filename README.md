@@ -32,7 +32,7 @@ If pyOpenSSL fails to install on debian based Linux distros with error:
 
 error: Setup script exited with error: command 'x86_64-linux-gnu-gcc' failed with exit status 1
 
-you need to install these:
+you'll need to install these:
 
 	$ sudo apt-get install libffi-dev
 	$ sudo apt-get install libssl-dev
