@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+	<server>
+		<network port="8080" hostname="127.0.0.1"/>
+		<url path="/2serial" parameter="data"/>
+		<!-- <ssl certificate="../../myapp.crt" key="../../myapp.key"/> -->
+	</server>
+	<serial port="/dev/ttyACM0" speed="9600" wait_for_response="True"/>
+</config>
